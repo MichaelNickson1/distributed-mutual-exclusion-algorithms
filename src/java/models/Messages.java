@@ -1,13 +1,10 @@
-package pl.edu.elka.models;
+package Agrawalas;
 
-import pl.edu.elka.raj.Main;
+import java.mal.Main;
 
 import java.util.Date;
 import java.util.StringTokenizer;
 
-/**
- * Created by carol on 15/04/2016.
- */
 public class Message implements Comparable<Message> {
 
     public int compareTo(Message o) {
