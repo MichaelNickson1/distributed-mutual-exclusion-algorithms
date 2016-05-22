@@ -1,4 +1,4 @@
-package pl.edu.elka.util;
+package Agrawalas;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
