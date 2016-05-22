@@ -1,11 +1,11 @@
-package pl.edu.elka.raj;
+package java.mal;
 
 import com.google.gson.Gson;
-import pl.edu.elka.models.Message;
-import pl.edu.elka.models.Node;
-import pl.edu.elka.util.IdGenerator;
-import pl.edu.elka.util.Log;
-import pl.edu.elka.util.PropertiesManager;
+import java.models.Message;
+importjava.models.Node;
+import java.Utils.IdGenerator;
+import java.Utils.Log;
+import java.Utils.PropertiesManager;
 
 import java.util.*;
 
