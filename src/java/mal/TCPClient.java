@@ -1,16 +1,13 @@
-package pl.edu.elka.raj;
+package Agrawalas;
 
-import pl.edu.elka.models.Message;
-import pl.edu.elka.models.Node;
-import pl.edu.elka.util.Log;
+import java.models.Message;
+import java.models.Node;
+import java.Utils.Log;
 
 import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.Socket;
 
-/**
- * Created by carol on 20/04/2016.
- */
 public class TCPClient implements Runnable {
 
     private String address;
