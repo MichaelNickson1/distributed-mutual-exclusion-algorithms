@@ -1,8 +1,6 @@
-package pl.edu.elka.util;
+package Agrawalas;
 
-/**
- * Created by carol on 20/04/2016.
- */
+
 public class IdGenerator {
 
     public static String generate(){
