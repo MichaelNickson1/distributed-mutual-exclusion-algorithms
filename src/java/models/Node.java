@@ -1,16 +1,13 @@
-package pl.edu.elka.models;
+package Agrawalas;
 
 import com.google.gson.Gson;
-import pl.edu.elka.raj.Main;
-import pl.edu.elka.util.Log;
+import java.mal.Main;
+import java.Utils.Log;
 
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
 
-/**
- * Created by carol on 20/04/2016.
- */
 public class Node {
     private String pid;
     private Socket socket;
