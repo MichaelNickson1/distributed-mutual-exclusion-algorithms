@@ -1,7 +1,7 @@
-package pl.edu.elka.raj;
+package Agrawalas;
 
-import pl.edu.elka.models.Node;
-import pl.edu.elka.util.Log;
+import java.models.Node;
+import java.Utils.Log;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
