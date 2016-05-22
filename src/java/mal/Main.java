@@ -1,10 +1,7 @@
-package pl.edu.elka.raj;
+package Agrawalas;
 
-import pl.edu.elka.util.PropertiesManager;
+import java.Utils.PropertiesManager;
 
-/**
- * Created by carol on 15/04/2016.
- */
 public class Main {
     public static PropertiesManager propertiesManager;
     public static NetworkController networkController;
