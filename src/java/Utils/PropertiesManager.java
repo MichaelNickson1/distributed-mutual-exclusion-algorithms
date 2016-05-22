@@ -1,4 +1,4 @@
-package pl.edu.elka.util;
+package Agrawalas;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
